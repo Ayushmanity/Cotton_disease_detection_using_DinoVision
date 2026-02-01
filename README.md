@@ -1,1 +1,1 @@
-# Cotton_disease_detection_usingRESNET50
+# SugerCane_disease_detection_usingRESNET50
